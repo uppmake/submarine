@@ -1,0 +1,7 @@
+{
+    "port": "COM3",
+    "board": "arduino:avr:nano",
+    "sketch": "Gammonrs485master.ino",
+    "configuration": "cpu=atmega328old",
+    "programmer": "arduino:avrisp"
+}

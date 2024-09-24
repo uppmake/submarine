@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Gammonrs485slave",
+			"path": "."
+		}
+	],
+	"settings": {
+		"C_Cpp.errorSquiggles": "Disabled"
+	}
+}
